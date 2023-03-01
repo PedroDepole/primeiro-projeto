@@ -1,0 +1,48 @@
+body {
+   background-image: url('imagens/fundo.png');
+   background-repeat: no repeat;
+}
+
+#principal {
+    width: 900px;
+    padding: 20px;
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.cores {
+    background-color: antiquewhite;
+    padding: 12px;
+    font-size: 20px;
+
+}
+
+
+.espaço {
+    padding: 20px;
+}
+
+a {
+   color: brown;
+   padding: 16px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.formato {
+    padding: 16em;
+    font-size: 20px;
+}
+
+
